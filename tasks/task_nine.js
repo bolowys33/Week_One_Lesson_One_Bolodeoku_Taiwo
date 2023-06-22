@@ -1,3 +1,3 @@
-let name = 'Taiwo';
-let sentence = `My name is ${name}`;
-console.log(sentence);
+const name = 'Taiwo'
+const sentence = `My name is ${name}`
+console.log(sentence)

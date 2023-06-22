@@ -1,6 +1,6 @@
-let num = 15;
+const num = 15
 
-console.log(num);
+console.log(num)
 
-console.warn('This is a warning');
-console.error("This is an error");
+console.warn('This is a warning')
+console.error('This is an error')

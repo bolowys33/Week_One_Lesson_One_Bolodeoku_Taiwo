@@ -1,8 +1,8 @@
-let date
+let Age =
 
-console.log(date);
-console.log(typeof(date));
+console.log(Age)
+console.log(typeof (Age))
 
-date = null
-console.log(date);
-console.log(typeof(date));
+Age = null
+console.log(Age)
+console.log(typeof (Age))
