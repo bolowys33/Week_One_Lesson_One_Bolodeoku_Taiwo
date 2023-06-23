@@ -1,8 +1,8 @@
-let Age =
+let result
 
-console.log(Age)
-console.log(typeof (Age))
+console.log(result)
+console.log(typeof (result))
 
-Age = null
-console.log(Age)
-console.log(typeof (Age))
+result = null
+console.log(result)
+console.log(typeof (result))
